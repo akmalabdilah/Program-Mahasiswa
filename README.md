@@ -5,15 +5,15 @@
 Program kali ini saya menggunakan, Dictionary dengan tampilan menu pilihan: (Tambah data, Ubah data, Hapus data, Tampilan data, Cari data) Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%,uts: 35%, uas: 35%)'<p>'
 
 1. Tampilan coding di pycram'<p>'
-![Gambar 1](screenshoot/s1.JPG)
-![Gambar 2](screenshoot/s2.JPG)
-![Gambar 3](screenshoot/s3.JPG)
-![Gambar 4](screenshoot/s4.JPG)
-![Gambar 5](screenshoot/s5.JPG)
-![Gambar 6](screenshoot/s6.JPG)
-![Gambar 7](screenshoot/s7.JPG)
-![Gambar 8](screenshoot/s8.JPG)
-![Gambar 9](screenshoot/s9.JPG)
+![Gambar 1](screenshoot/s1.jpg)
+![Gambar 2](screenshoot/s2.jpg)
+![Gambar 3](screenshoot/s3.jpg)
+![Gambar 4](screenshoot/s4.jpg)
+![Gambar 5](screenshoot/s5.jpg)
+![Gambar 6](screenshoot/s6.jpg)
+![Gambar 7](screenshoot/s7.jpg)
+![Gambar 8](screenshoot/s8.jpg)
+![Gambar 9](screenshoot/s9.jpg)
 
 2. Tampilan Run Di Pycram'<p>'
 ![Gambar 10](screenshoot/s10.JPG)
