@@ -312,6 +312,9 @@ print ( dict6['Name'],dict6['Nomor Telepon'])'<P>'
 DAN NANTI HASIL OUPUTNNYA SEBAGAI BERIKUT'<P>'
 ![Gambar 15](screenshoot/s15.JPG)
 
+PENUTUP'<P>'
+SALAM HANGAT MAHASISWA PELITA BANGSA'<P>'
+
 
 
 
