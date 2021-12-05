@@ -310,7 +310,7 @@ print ( dict['Name'],dict['Nomor Telepon'])
 print ( dict6['Name'],dict6['Nomor Telepon'])'<P>'
 
 DAN NANTI HASIL OUPUTNNYA SEBAGAI BERIKUT'<P>'
-![Gambar 13](screenshoot/s13.JPG)
+![Gambar 15](screenshoot/s15.JPG)
 
 
 
