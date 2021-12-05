@@ -1,9 +1,9 @@
 print("=================Selamat Datang======================")
 #Tampilan1
-dict = {'Name': 'Ari', 'Nomor Telepon': 81267888,'Class': 'First'}
+# = {'Name': 'Ari', 'Nomor Telepon': 81267888,'Class': 'First'}
 dict2 = {'Name': 'Dina', 'Nomor Telepon':87677776,'Class': 'First'}
 
-print ("dict['Name']: ", dict['Name'])
+print ("# : ", #ARI)
 print ("dict['Nomor Telepon']: ", dict['Nomor Telepon'])
 print ("dict2['Name']: ", dict2['Name'])
 print ("dict2['Nomor Telepon']: ", dict2['Nomor Telepon'])
@@ -36,8 +36,8 @@ del dict['Name']
 dict.clear()     
 del dict         
 
-print ("dict['Nama']: ", dict['Nama'])
-print ("dict['Nomor Telepon']: ", dict['Nomor Telepon'])
+print ("dict['Nama']: ")
+print ("dict['Nomor Telepon']: ")
 print ("dict2['Name']: ", dict2['Name'])
 print ("dict2['Nomor Telepon']: ", dict2['Nomor Telepon'])
 print ("dict3['Nama']: ", dict3['Name'])
